@@ -1,0 +1,2692 @@
+{
+ "version": 1,
+ "buildings": [
+  {
+   "id": "c92d0a9ae7b1",
+   "category": "ready-to-move",
+   "slug": "sahil-metropolitan",
+   "name": "Sahil Metropolitan at RR Business Park",
+   "headline": "700 - 1800 sq. ft.",
+   "floors": "9 floors",
+   "area": "700 - 1800 sq. ft.",
+   "parking": "Basement and podium parking available.",
+   "powerBackup": "24x7 power backup for common areas.",
+   "liftAccess": "High-Speed Elevators with ARD.",
+   "maintenance": "CCTV surveillance and Building management system.",
+   "description": "Sahil Metropolitan at RR Business Park is a modern 9-floor commercial complex offering premium office spaces ranging from 700 to 1800 sq. ft. Located in a prime business zone, it features basement and podium parking, 24x7 power backup, high-speed elevators, and advanced CCTV surveillance for a secure working environment.",
+   "images": [
+    "/assets/services/private-cabin.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 1
+  },
+  {
+   "id": "1395c1c48568",
+   "category": "ready-to-move",
+   "slug": "skye-corporate-park",
+   "name": "Skye Corporate Park",
+   "headline": "From 1,280 sq. ft.",
+   "floors": "17 floors",
+   "area": "From 1,280 sq. ft.",
+   "parking": "Multi-level car parking across ground floor and 3 basements with gated entry and CCTV.",
+   "powerBackup": "Round-the-clock power backup for common facilities.",
+   "liftAccess": "Multiple high-speed lifts.",
+   "maintenance": "Professional facility maintenance company with advanced firefighting system.",
+   "description": "Skye Corporate Park is a premium 17-floor commercial tower offering spacious offices from 1,280 sq. ft. The project features multi-level car parking across ground floor and 3 basements, round-the-clock power backup, multiple high-speed lifts, and professional facility maintenance with advanced firefighting systems.",
+   "images": [
+    "/assets/ready-buildings/skye-corporate-park.jpg",
+    "/assets/ready-buildings/skye-corporate-park-p2.jpg",
+    "/assets/ready-buildings/skye-corporate-park-p3.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 2
+  },
+  {
+   "id": "75ad60a8f99c",
+   "category": "ready-to-move",
+   "slug": "bpk-titanium",
+   "name": "BPK Titanium",
+   "headline": "26,800-56,700 sq. ft.",
+   "floors": "13 floors",
+   "area": "26,800-56,700 sq. ft.",
+   "parking": "Secure 4-wheeler, 2-wheeler, and visitor parking with boom barriers.",
+   "powerBackup": "100% power backup.",
+   "liftAccess": "Lifts available for all floors.",
+   "maintenance": "24x7 security, BMS, CCTV, fire fighting equipment, and building maintenance.",
+   "description": "BPK Titanium is a large-scale commercial development spanning 13 levels with floor plates ranging from 26,800 to 56,700 sq. ft. It offers secure parking with boom barriers for 4-wheelers, 2-wheelers, and visitors, 100% power backup, lifts on all floors, and comprehensive building management with 24x7 security and fire safety systems.",
+   "images": [
+    "/assets/ready-buildings/bpk-titanium.jpg",
+    "/assets/ready-buildings/bpk-titanium-p2.jpg",
+    "/assets/ready-buildings/bpk-titanium-p3.jpg",
+    "/assets/ready-buildings/bpk-titanium-p4.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 3
+  },
+  {
+   "id": "d7bac42f3227",
+   "category": "ready-to-move",
+   "slug": "clifton-park",
+   "name": "Clifton Park",
+   "headline": "240-1,640 sq. ft. per unit",
+   "floors": "13 floors",
+   "area": "240-1,640 sq. ft. per unit",
+   "parking": "Basement and ground floor parking, separate for owners and visitors.",
+   "powerBackup": "24x7 power backup.",
+   "liftAccess": "High-speed elevators.",
+   "maintenance": "24x7 security with CCTV.",
+   "description": "Clifton Park is a versatile 13-level commercial building offering flexible office units from 240 to 1,640 sq. ft. per unit. The project provides separate parking for owners and visitors across basement and ground floor levels, 24x7 power backup, high-speed elevators, and round-the-clock security with CCTV surveillance.",
+   "images": [
+    "/assets/ready-buildings/cbre-building-temp.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 4
+  },
+  {
+   "id": "871316817dd4",
+   "category": "ready-to-move",
+   "slug": "princess-business-sky",
+   "name": "Princess Business Sky",
+   "headline": "From 1,500 sq. ft.",
+   "floors": "7 floors",
+   "area": "From 1,500 sq. ft.",
+   "parking": "Ample multi-level parking for tenants and visitors.",
+   "powerBackup": "50% office/showroom backup and 100% common-space backup.",
+   "liftAccess": "6 high-speed automatic elevators with 17-20 passenger capacity.",
+   "maintenance": "24x7 security, CCTV, fire safety systems, and dedicated maintenance staff.",
+   "description": "Princess Business Sky is a premium 7-floor commercial property offering offices from 1,500 sq. ft. It features ample multi-level parking, 50% office/showroom power backup with 100% common-space backup, 6 high-speed automatic elevators with 17-20 passenger capacity, and comprehensive security with CCTV and fire safety systems.",
+   "images": [
+    "/assets/ready-buildings/princess-business-sky.jpg",
+    "/assets/ready-buildings/princess-business-sky-p2.jpg",
+    "/assets/ready-buildings/princess-business-sky-p3.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 5
+  },
+  {
+   "id": "3069b5d0ea87",
+   "category": "ready-to-move",
+   "slug": "satguru-parinay",
+   "name": "Satguru Parinay",
+   "headline": "1,100-3,300 sq. ft.",
+   "floors": "Multiple office floors",
+   "area": "1,100-3,300 sq. ft.",
+   "parking": "More than 250 car parking spaces with wheelchair-accessible parking.",
+   "powerBackup": "Full power backup available.",
+   "liftAccess": "3 automatic lifts.",
+   "maintenance": "Maintenance staff, 24x7 security guards, CCTV, water supply, and intercom.",
+   "description": "Satguru Parinay is a well-established commercial complex offering office spaces from 1,100 to 3,300 sq. ft. across multiple floors. It boasts over 250 car parking spaces including wheelchair-accessible parking, full power backup, 3 automatic lifts, and dedicated maintenance staff with 24x7 security, CCTV, and intercom facilities.",
+   "images": [
+    "/assets/ready-buildings/satguru-parinay.jpg",
+    "/assets/ready-buildings/satguru-parinay-p2.jpg",
+    "/assets/ready-buildings/satguru-parinay-p3.jpg",
+    "/assets/ready-buildings/satguru-parinay-p4.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 6
+  },
+  {
+   "id": "e10656356022",
+   "category": "ready-to-move",
+   "slug": "apollo-gold",
+   "name": "Apollo Gold",
+   "headline": "551-1,379 sq. ft.",
+   "floors": "Multiple floors",
+   "area": "551-1,379 sq. ft.",
+   "parking": "Spacious parking for uninterrupted operations.",
+   "powerBackup": "24x7 power backup available.",
+   "liftAccess": "Passenger and service elevators available.",
+   "maintenance": "Dedicated maintenance floor plus 24x7 CCTV monitoring across the campus.",
+   "description": "Apollo Gold is a modern commercial building offering compact to mid-size office spaces from 551 to 1,379 sq. ft. The project features spacious parking facilities, 24x7 power backup, passenger and service elevators, and a dedicated maintenance floor with round-the-clock CCTV monitoring across the entire campus.",
+   "images": [
+    "/assets/ready-buildings/apollo-gold.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 7
+  },
+  {
+   "id": "fe2ea6bf0842",
+   "category": "ready-to-move",
+   "slug": "apollo-premier",
+   "name": "Apollo Premier",
+   "headline": "900-1,600 sq. ft.",
+   "floors": "12 floors",
+   "area": "900-1,600 sq. ft.",
+   "parking": "3 dedicated parking floors with visitor parking.",
+   "powerBackup": "100% power backup.",
+   "liftAccess": "High-speed elevators.",
+   "maintenance": "BMS, 24x7 security, CCTV, dedicated building maintenance, and business centre.",
+   "description": "Apollo Premier is a premium 12-level commercial tower offering office spaces from 900 to 1,600 sq. ft. It features 3 dedicated parking floors with visitor parking, 100% power backup, high-speed elevators, and a comprehensive building management system with 24x7 security, CCTV, and an on-site business centre.",
+   "images": [
+    "/assets/ready-buildings/apollo-premier.jpg",
+    "/assets/ready-buildings/apollo-premier-p2.jpg",
+    "/assets/ready-buildings/apollo-premier-p3.jpg",
+    "/assets/ready-buildings/apollo-premier-p4.jpg",
+    "/assets/ready-buildings/apollo-premier-p5.jpg",
+    "/assets/ready-buildings/apollo-premier-p6.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 8
+  },
+  {
+   "id": "9cf4255df21f",
+   "category": "ready-to-move",
+   "slug": "sahil-satyaraj",
+   "name": "Sahil Satyaraj",
+   "headline": "600 sq. ft. offices",
+   "floors": "4 floors",
+   "area": "600 sq. ft. offices",
+   "parking": "Basement and visitor parking.",
+   "powerBackup": "Details on request.",
+   "liftAccess": "High-speed elevators with ARD.",
+   "maintenance": "Details on request.",
+   "description": "Sahil Satyaraj is a compact 4-floor commercial building offering ready-to-move office spaces of 600 sq. ft. The property features basement and visitor parking, high-speed elevators with ARD technology, and professional building management services.",
+   "images": [
+    "/assets/ready-buildings/sahil-satyaraj.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 9
+  },
+  {
+   "id": "13b7e998c42a",
+   "category": "ready-to-move",
+   "slug": "clifton-corporate",
+   "name": "Clifton Corporate",
+   "headline": "240-1,640 sq. ft. per unit",
+   "floors": "Ground + 8 upper floors",
+   "area": "240-1,640 sq. ft. per unit",
+   "parking": "Basement and ground floor parking, separate for owners and visitors.",
+   "powerBackup": "24x7 power backup.",
+   "liftAccess": "High-speed elevators.",
+   "maintenance": "24x7 security with CCTV surveillance.",
+   "description": "Clifton Corporate is a 9-storey commercial building offering flexible office units from 240 to 1,640 sq. ft. per unit. It features separate parking for owners and visitors across basement and ground floor, 24x7 power backup, high-speed elevators, and round-the-clock security with CCTV surveillance.",
+   "images": [
+    "/assets/ready-buildings/cliffton-corporate.jpg",
+    "/assets/ready-buildings/cliffton-corporate-p2.jpg",
+    "/assets/ready-buildings/cliffton-corporate-p3.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 10
+  },
+  {
+   "id": "79968cd65a6a",
+   "category": "ready-to-move",
+   "slug": "metro-tower",
+   "name": "Metro Tower",
+   "headline": "~32,000 sq. ft. per floor",
+   "floors": "9 floors",
+   "area": "~32,000 sq. ft. per floor",
+   "parking": "2-wheeler and 4-wheeler parking available.",
+   "powerBackup": "Power backup available.",
+   "liftAccess": "Lift available; coworking spaces operate from the 7th floor.",
+   "maintenance": "24x7 security, building maintenance, banks, and business centre on premises.",
+   "description": "Metro Tower is a large 9-floor commercial tower offering expansive floor plates of approximately 32,000 sq. ft. per floor. The building provides parking for both 2-wheelers and 4-wheelers, power backup, lift access with coworking spaces on the 7th floor, and a full range of amenities including banks and a business centre on premises.",
+   "images": [
+    "/assets/ready-buildings/metro-tower.png"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 11
+  },
+  {
+   "id": "c4c6296dbc9f",
+   "category": "ready-to-move",
+   "slug": "benchmark",
+   "name": "Benchmark",
+   "headline": "~16,000 sq. ft. per floor",
+   "floors": "11 floors",
+   "area": "~16,000 sq. ft. per floor",
+   "parking": "Visitor parking with boom barriers.",
+   "powerBackup": "Power backup available.",
+   "liftAccess": "Lift confirmed available.",
+   "maintenance": "24x7 security, BMS, CCTV, and fire fighting equipment.",
+   "description": "Benchmark is an 11-level commercial building offering large floor plates of approximately 16,000 sq. ft. per floor. The project features visitor parking with boom barrier access, power backup, lifts, and a comprehensive security system with 24x7 monitoring, BMS, CCTV, and firefighting equipment.",
+   "images": [
+    "/assets/ready-buildings/benchmark.png"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 12
+  },
+  {
+   "id": "01b5876a07f8",
+   "category": "ready-to-move",
+   "slug": "dhan-trident",
+   "name": "Dhan Trident",
+   "headline": "From 2,600 sq. ft.",
+   "floors": "10 floors",
+   "area": "From 2,600 sq. ft.",
+   "parking": "Car parking available; ground floor dedicated for parking with lift access.",
+   "powerBackup": "Power backup available.",
+   "liftAccess": "Lift confirmed available.",
+   "maintenance": "24x7 security, maintenance staff, CCTV, security staff, and water supply.",
+   "description": "Dhan Trident is a 10-floor commercial building offering spacious offices from 2,600 sq. ft. The property features dedicated ground floor parking with lift access, power backup, and comprehensive building management with 24x7 security, maintenance staff, CCTV, and uninterrupted water supply.",
+   "images": [
+    "/assets/ready-buildings/dhan-trident.jpg",
+    "/assets/ready-buildings/dhan-trident-p2.jpg",
+    "/assets/ready-buildings/dhan-trident-p3.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 13
+  },
+  {
+   "id": "41242d2fc2b1",
+   "category": "ready-to-move",
+   "slug": "nrk-business-park",
+   "name": "NRK Business Park",
+   "headline": "Flexible configurations",
+   "floors": "Ground + 9 upper floors",
+   "area": "Flexible configurations",
+   "parking": "Ample on-site parking facilities.",
+   "powerBackup": "Uninterrupted power supply with robust backup systems.",
+   "liftAccess": "5 automatic gearless 16-passenger lifts and 1 service/goods lift.",
+   "maintenance": "24x7 surveillance with CCTV and security personnel.",
+   "description": "NRK Business Park is a premium commercial development spanning ground plus 9 upper floors with flexible office configurations. It features ample on-site parking, uninterrupted power supply with robust backup systems, 5 automatic gearless 16-passenger lifts plus a service lift, and 24x7 surveillance with CCTV and dedicated security personnel.",
+   "images": [
+    "/assets/ready-buildings/nrk-business-park.jpg",
+    "/assets/ready-buildings/nrk-business-park-p2.jpg",
+    "/assets/ready-buildings/nrk-business-park-p3.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 14
+  },
+  {
+   "id": "578fb29cabda",
+   "category": "ready-to-move",
+   "slug": "fortune-azure",
+   "name": "Fortune Azure",
+   "headline": "514-8,986 sq. ft.",
+   "floors": "47 units",
+   "area": "514-8,986 sq. ft.",
+   "parking": "Ample parking available.",
+   "powerBackup": "Power backup and fire safety systems available.",
+   "liftAccess": "High-speed elevators with grand entrance lobby.",
+   "maintenance": "24x7 security, maintenance staff, CCTV cameras, and fire safety.",
+   "description": "Fortune Azure is a premium commercial project with 47 units ranging from 514 to 8,986 sq. ft. The property offers ample parking, power backup with fire safety systems, high-speed elevators with a grand entrance lobby, and comprehensive security with 24x7 maintenance, CCTV cameras, and fire safety equipment.",
+   "images": [
+    "/assets/ready-buildings/fortune-azure.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 15
+  },
+  {
+   "id": "69132524fbc5",
+   "category": "ready-to-move",
+   "slug": "princess-sky-line",
+   "name": "Princess Sky Line",
+   "headline": "744-1,890 sq. ft.",
+   "floors": "9 floors",
+   "area": "744-1,890 sq. ft.",
+   "parking": "Large parking lots on two sides with 2-wheeler and 4-wheeler parking.",
+   "powerBackup": "50% office/showroom backup and 100% common-space backup.",
+   "liftAccess": "1 passenger lift and 1 service lift.",
+   "maintenance": "24x7 security, CCTV, cafeteria, fitness centre, and meeting rooms.",
+   "description": "Princess Sky Line is a 9-level commercial building offering office spaces from 744 to 1,890 sq. ft. The project features large parking lots on two sides, 50% office/showroom power backup with 100% common-space backup, passenger and service lifts, and extensive amenities including a cafeteria, fitness centre, and meeting rooms.",
+   "images": [
+    "/assets/ready-buildings/princess-sky-line.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 16
+  },
+  {
+   "id": "59f8701d1867",
+   "category": "ready-to-move",
+   "slug": "princess-sky-park",
+   "name": "Princess Sky Park",
+   "headline": "1,000-2,900+ sq. ft.",
+   "floors": "8 floors",
+   "area": "1,000-2,900+ sq. ft.",
+   "parking": "Ample multi-level tenant and visitor parking.",
+   "powerBackup": "50% office/showroom backup and 100% common-space backup.",
+   "liftAccess": "6 high-speed automatic elevators with 17-20 passenger capacity.",
+   "maintenance": "24x7 security, CCTV monitoring, fire safety equipment, and dedicated maintenance team.",
+   "description": "Princess Sky Park is an 8-floor commercial complex offering offices from 1,000 to 2,900+ sq. ft. It boasts ample multi-level parking for tenants and visitors, 50% office/showroom and 100% common-space power backup, 6 high-speed automatic elevators, and a dedicated maintenance team with 24x7 security and fire safety.",
+   "images": [
+    "/assets/ready-buildings/princess-sky-park.jpg",
+    "/assets/ready-buildings/princess-sky-park-p2.jpg",
+    "/assets/ready-buildings/princess-sky-park-p3.jpg",
+    "/assets/ready-buildings/princess-sky-park-p4.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 17
+  },
+  {
+   "id": "f440d9d5873d",
+   "category": "ready-to-move",
+   "slug": "headquarters",
+   "name": "Headquarters",
+   "headline": "Details on request",
+   "floors": "Details on request",
+   "area": "Details on request",
+   "parking": "Details on request.",
+   "powerBackup": "Details on request.",
+   "liftAccess": "Details on request.",
+   "maintenance": "Details on request.",
+   "description": "Headquarters is a premium commercial property available for businesses looking for a professional workspace in Indore. Contact our team for detailed specifications, pricing, and availability information.",
+   "images": [
+    "/assets/gallery/office-lounge.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 18
+  },
+  {
+   "id": "d0c5158c96b7",
+   "category": "ready-to-move",
+   "slug": "city-walk-headquarters",
+   "name": "City Walk Headquarters",
+   "headline": "Details on request",
+   "floors": "Details on request",
+   "area": "Details on request",
+   "parking": "Details on request.",
+   "powerBackup": "Details on request.",
+   "liftAccess": "Details on request.",
+   "maintenance": "Details on request.",
+   "description": "City Walk Headquarters is a sought-after commercial property offering modern office spaces in a prime location. Contact our team for detailed information about available units, specifications, and commercial terms.",
+   "images": [
+    "/assets/gallery/private-suite.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 19
+  },
+  {
+   "id": "2d6c0595ab60",
+   "category": "ready-to-move",
+   "slug": "the-hub-mall",
+   "name": "The Hub Mall",
+   "headline": "Varied unit sizes",
+   "floors": "140 units",
+   "area": "Varied unit sizes",
+   "parking": "Car parking available on premises.",
+   "powerBackup": "24x7 power backup with inverter provisions for all units.",
+   "liftAccess": "Lift confirmed available.",
+   "maintenance": "CCTV security, professional facility maintenance, gymnasium, and restaurant on premises.",
+   "description": "The Hub Mall is a large commercial complex featuring 140 units of varied sizes. The property offers on-premises car parking, 24x7 power backup with inverter provisions, lift access, and premium amenities including a gymnasium, restaurant, professional facility maintenance, and CCTV security.",
+   "images": [
+    "/assets/ready-buildings/the-hub-mall.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 20
+  },
+  {
+   "id": "31f2b302f4e8",
+   "category": "ready-to-move",
+   "slug": "brilliant-titanium",
+   "name": "Brilliant Titanium",
+   "headline": "~35,000 sq. ft. per floor",
+   "floors": "7 floors",
+   "area": "~35,000 sq. ft. per floor",
+   "parking": "Parking available on premises.",
+   "powerBackup": "Power backup available with standard corporate facilities.",
+   "liftAccess": "Lifts available with fire exits and extinguishers.",
+   "maintenance": "Security and housekeeping staff, Wi-Fi infrastructure, fire exits, and extinguishers.",
+   "description": "Brilliant Titanium is a 7-level commercial tower offering large floor plates of approximately 35,000 sq. ft. per floor. The building provides on-premises parking, power backup, lifts with fire safety provisions, and comprehensive facilities including security, housekeeping, and Wi-Fi infrastructure.",
+   "images": [
+    "/assets/ready-buildings/brilliant-titanium.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 21
+  },
+  {
+   "id": "3772b176bfa7",
+   "category": "ready-to-move",
+   "slug": "brilliant-platina",
+   "name": "Brilliant Platina",
+   "headline": "From 7,800 sq. ft. carpet",
+   "floors": "8 floors",
+   "area": "From 7,800 sq. ft. carpet",
+   "parking": "Dedicated parking with security guards on campus.",
+   "powerBackup": "State-of-the-art facilities with power backup throughout the building.",
+   "liftAccess": "Lift confirmed available with lobby area.",
+   "maintenance": "Professionally maintained campus with security guards and lobby area.",
+   "description": "Brilliant Platina is an 8-floor premium commercial building offering spacious offices from 7,800 sq. ft. carpet area. The professionally maintained campus features dedicated parking with security guards, state-of-the-art power backup throughout the building, lifts with a lobby area, and comprehensive campus management.",
+   "images": [
+    "/assets/ready-buildings/brilliant-platina.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 22
+  },
+  {
+   "id": "50f948e4d8ad",
+   "category": "ready-to-move",
+   "slug": "nrk-tech-park",
+   "name": "NRK Tech Park",
+   "headline": "~1,08,000 sq. ft. built-up",
+   "floors": "Multiple floors",
+   "area": "~1,08,000 sq. ft. built-up",
+   "parking": "On-premises parking with excellent connectivity and accessibility.",
+   "powerBackup": "Advanced environment-friendly infrastructure with power backup.",
+   "liftAccess": "High-speed elevators with grand entrance lobby.",
+   "maintenance": "World-class technology and advanced infrastructure maintained throughout.",
+   "description": "NRK Tech Park is a large-scale commercial development offering approximately 1,08,000 sq. ft. of built-up area across multiple floors. The project features on-premises parking with excellent connectivity, advanced environment-friendly infrastructure with power backup, high-speed elevators with a grand entrance lobby, and world-class technology throughout.",
+   "images": [
+    "/assets/ready-buildings/nrk-tech-park.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 23
+  },
+  {
+   "id": "5c5c4c6d1dcb",
+   "category": "ready-to-move",
+   "slug": "apollo-high-street",
+   "name": "Apollo High Street",
+   "headline": "From 1,000 sq. ft.",
+   "floors": "Ground + 6 floors",
+   "area": "From 1,000 sq. ft.",
+   "parking": "Dedicated basement and surface parking available.",
+   "powerBackup": "100% power backup for common areas and offices.",
+   "liftAccess": "Multiple high-speed passenger and service elevators.",
+   "maintenance": "24x7 security, CCTV surveillance, and professional property management.",
+   "description": "Apollo High Street is a prime commercial complex offering a vibrant mix of premium retail showrooms and modern office spaces. With its contemporary architecture, excellent road frontage, and world-class amenities, it is designed to cater to the dynamic needs of growing businesses and premium brands.",
+   "images": [
+    "/assets/ready-buildings/apollo-high-street.jpg",
+    "/assets/ready-buildings/apollo-high-street-p2.jpg",
+    "/assets/ready-buildings/apollo-high-street-p3.jpg",
+    "/assets/ready-buildings/apollo-high-street-p4.jpg",
+    "/assets/ready-buildings/apollo-high-street-p5.jpg"
+   ],
+   "sections": [],
+   "published": true,
+   "order": 24
+  },
+  {
+   "id": "97ac21fb52fb",
+   "category": "new-commercial-building",
+   "slug": "laabham-highlights",
+   "name": "Laabham Highlights",
+   "headline": "~5.5 lakh sq ft Total (35-40k sq ft floor plates)",
+   "floors": "~16 Floors (Office & Retail)",
+   "area": "~5.5 lakh sq ft Total (35-40k sq ft floor plates)",
+   "parking": "3 Floors Parking",
+   "powerBackup": "Power backup",
+   "liftAccess": "High-speed elevators",
+   "maintenance": "24x7 security + CCTV, Smart building management",
+   "description": "Laabham Highlights is an upcoming A-grade commercial business park located on the prime Super Corridor of Indore, right in front of the metro station near MR-5 Square. Designed for modern businesses, the project offers premium showrooms, office spaces, F&B outlets, and large corporate floor plates with world-class amenities, multi-level parking, and seamless connectivity to TCS, Infosys, and Indore Airport.",
+   "images": [
+    "/assets/ready-buildings/laabham-highlights.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Type",
+       "value": "A-Grade Commercial Business Park"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Expected Jan 2027)"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-24-4779"
+      },
+      {
+       "label": "Location",
+       "value": "Super Corridor, near MR-5 Sq"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Land Area",
+       "value": "~2.5 acres (~5.5L sq ft Built-up)"
+      },
+      {
+       "label": "Tower",
+       "value": "1 Main Tower (~16 Floors)"
+      },
+      {
+       "label": "Floor Plates",
+       "value": "Up to 35,000–40,000 sq ft"
+      },
+      {
+       "label": "Layout",
+       "value": "3 Parking, Retail, 10 Office, Rooftop F&B"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices (~283 units)",
+       "value": "₹7,500–₹8,500/sqft"
+      },
+      {
+       "label": "Retail (~93 units)",
+       "value": "₹8,500–₹11,000/sqft"
+      },
+      {
+       "label": "Ticket Size",
+       "value": "Offices from ~₹57L, Retail ~₹69L"
+      },
+      {
+       "label": "Ideal for",
+       "value": "IT, Startups, Brands, MNCs"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Metro-facing premium facade"
+      },
+      {
+       "label": "",
+       "value": "Near TCS & Infosys with high rental demand"
+      },
+      {
+       "label": "",
+       "value": "Grand entrance lobby & Central management"
+      },
+      {
+       "label": "",
+       "value": "15+ premium builder amenities"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 1
+  },
+  {
+   "id": "854bc60bc6ef",
+   "category": "new-commercial-building",
+   "slug": "veda-commune",
+   "name": "Veda Commune – The Atrium Plaza",
+   "headline": "Offices 723–1914 sq ft | Shops 240–3258 sq ft",
+   "floors": "B+G+8 (10 operational floors)",
+   "area": "Offices 723–1914 sq ft | Shops 240–3258 sq ft",
+   "parking": "Dedicated Basement Parking",
+   "powerBackup": "Full common-area power backup",
+   "liftAccess": "High-speed lifts",
+   "maintenance": "24x7 security, CCTV, Fire safety",
+   "description": "Veda Commune – The Atrium Plaza is a premium mixed-use commercial development located near Luv Kush Square on Indore’s rapidly growing Super Corridor. Designed as a modern business ecosystem, the project offers premium retail spaces, showrooms, and office units with high visibility, excellent connectivity, basement parking, and world-class amenities. With a B+G+8 structure and units ranging from compact shops to large offices, Veda Commune is ideal for businesses, investors, and brands seeking a high-growth commercial address in Indore.",
+   "images": [
+    "/assets/ready-buildings/veda-commune.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Veda Group / Shiv Lalji Construction LLP"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Plaza / Business Park"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: 2026)"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-23-3857"
+      },
+      {
+       "label": "Location",
+       "value": "Near Luv Kush Square, Super Corridor, Indore"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project Area",
+       "value": "2.6 Acres (297 Total Units)"
+      },
+      {
+       "label": "Tower",
+       "value": "1 Main Commercial Tower"
+      },
+      {
+       "label": "Structure",
+       "value": "1 Basement, Ground, 8 Upper Floors"
+      },
+      {
+       "label": "Layout",
+       "value": "GF-1F: Retail/F&B, 2F-8F: Offices"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices (723–1914 sq ft)",
+       "value": "₹15,000–₹16,500/sqft (~₹1.08 Cr+)"
+      },
+      {
+       "label": "Shops (240–3258 sq ft)",
+       "value": "₹17,000–₹18,500/sqft (~₹40L+)"
+      },
+      {
+       "label": "Retail Inventory",
+       "value": "Approx 70–90 units"
+      },
+      {
+       "label": "Ideal for",
+       "value": "Brands, Cafes, Restaurants, Premium retail"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "High-speed lifts & Grand atrium"
+      },
+      {
+       "label": "",
+       "value": "Premium façade & Large lobby"
+      },
+      {
+       "label": "",
+       "value": "High footfall retail zone"
+      },
+      {
+       "label": "",
+       "value": "Rooftop F&B possibility"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 2
+  },
+  {
+   "id": "0894c76c4747",
+   "category": "new-commercial-building",
+   "slug": "pm-the-rise",
+   "name": "PM The Rise",
+   "headline": "Offices 500–5000+ sq ft | Shops 400–2500+ sq ft",
+   "floors": "Approx. 12+ floor premium commercial tower",
+   "area": "Offices 500–5000+ sq ft | Shops 400–2500+ sq ft",
+   "parking": "Multi-level Parking",
+   "powerBackup": "Common-area power backup",
+   "liftAccess": "High-speed elevators",
+   "maintenance": "24x7 security, CCTV, Fire safety",
+   "description": "PM The Rise is a premium upcoming commercial development located on Indore’s high-growth Super Corridor. Designed as a modern business destination, the project offers premium retail spaces, showrooms, and office units with strong visibility, modern infrastructure, and excellent city connectivity. With large floor plates, premium amenities, and proximity to major IT hubs like Infosys and TCS, PM The Rise is positioned as an ideal investment and business address in Indore.",
+   "images": [
+    "/assets/ready-buildings/The-rise-overview.jpg.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "PM Group / PM Infratech"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Business Tower"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Expected 2027-2028)"
+      },
+      {
+       "label": "Location",
+       "value": "Super Corridor, Indore"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Land Parcel",
+       "value": "~2-4 Acres"
+      },
+      {
+       "label": "Structure",
+       "value": "2-3 Basements, Ground, 12-18 Upper Floors"
+      },
+      {
+       "label": "Layout",
+       "value": "GF: Premium Retail, 1F-2F: Showrooms/F&B, Upper: Offices"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices",
+       "value": "₹8,000–₹11,000/sqft (~₹40L+)"
+      },
+      {
+       "label": "Shops/Showrooms",
+       "value": "₹11,000–₹16,000/sqft (~₹44L+)"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Premium glass-façade business tower"
+      },
+      {
+       "label": "",
+       "value": "Proximity to Infosys and TCS"
+      },
+      {
+       "label": "",
+       "value": "Large lobby waiting zones and wide corridors"
+      },
+      {
+       "label": "",
+       "value": "High parking ratio for corporate leasing"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 3
+  },
+  {
+   "id": "49cae4220fb7",
+   "category": "new-commercial-building",
+   "slug": "emerald-forum",
+   "name": "Emerald Forum",
+   "headline": "Offices 625–1400 sq ft | Retail ~1200–4000+ sq ft",
+   "floors": "Premium 11-floor commercial landmark",
+   "area": "Offices 625–1400 sq ft | Retail ~1200–4000+ sq ft",
+   "parking": "Dedicated 2W & 4W parking",
+   "powerBackup": "Full common-area power backup",
+   "liftAccess": "High-speed elevators",
+   "maintenance": "24x7 security, CCTV, Fire safety",
+   "description": "Emerald Forum is a premium commercial landmark located on AB Road near Scheme No. 78, Indore. Designed as a high-end business destination, the project offers premium office spaces and retail inventory with modern infrastructure, excellent frontage, large parking capacity, and strong city connectivity. Spread across 7 acres with an 11-floor premium tower, Emerald Forum is ideal for corporates, investors, and brands looking for a prestigious business address in Indore.",
+   "images": [
+    "/assets/ready-buildings/Project-Photo-5-Emerald-Forum-Indore-5450937_2000_1689_310_462.jpg.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Emerald Developers"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Office + Retail"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: Aug 2028)"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-26-6485"
+      },
+      {
+       "label": "Location",
+       "value": "AB Road, Near Scheme No. 78, Indore"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project Area",
+       "value": "7 Acres (101 Total Units)"
+      },
+      {
+       "label": "Tower",
+       "value": "1 Premium Tower (~45 meters height)"
+      },
+      {
+       "label": "Structure",
+       "value": "Basement, GF, 1F, Upper Office Floors (11 Total)"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices (~75-90 units)",
+       "value": "~₹12,500/sqft (~₹78L+)"
+      },
+      {
+       "label": "Showrooms (~10-25 units)",
+       "value": "₹15,000–₹20,000/sqft"
+      },
+      {
+       "label": "Ideal for",
+       "value": "Corporate HQ, CA firms, Premium brands"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Premium AB Road frontage with strong city connectivity"
+      },
+      {
+       "label": "",
+       "value": "Low unit count ensures premium positioning"
+      },
+      {
+       "label": "",
+       "value": "Signage opportunities and modern façade"
+      },
+      {
+       "label": "",
+       "value": "Adequate corporate parking & premium layout"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 4
+  },
+  {
+   "id": "d414079dd95b",
+   "category": "new-commercial-building",
+   "slug": "emerald-world-park",
+   "name": "Emerald World Park",
+   "headline": "Offices 700–2200 sq ft | Shops 1200–2400 sq ft",
+   "floors": "Premium corporate campus with 8 office floors",
+   "area": "Offices 700–2200 sq ft | Shops 1200–2400 sq ft",
+   "parking": "Reserved covered parking",
+   "powerBackup": "Common area + building systems backup",
+   "liftAccess": "High-speed lifts",
+   "maintenance": "24x7 security, CCTV, Fire safety",
+   "description": "Emerald World Park is a premium corporate campus located on Eastern Ring Road in Indore’s fast-growing Central Business District. Spread across 3 acres, the project offers high-street retail spaces and 95 premium office units designed across 8 modern office levels. With large floor plates, premium infrastructure, power backup, covered parking, and collaborative workspaces, Emerald World Park is ideal for businesses, brands, and investors looking for long-term commercial growth in Indore.",
+   "images": [
+    "/assets/ready-buildings/World-Park.png"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Emerald Developers"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Corporate Campus"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: Mar 2028)"
+      },
+      {
+       "label": "RERA",
+       "value": "Approved"
+      },
+      {
+       "label": "Location",
+       "value": "Eastern Ring Road / Scheme 94, Indore"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Land Parcel",
+       "value": "3 Acres (95 Units)"
+      },
+      {
+       "label": "Structure",
+       "value": "GF: Retail, 8 Levels: Offices, Parking Podium"
+      },
+      {
+       "label": "Operational Levels",
+       "value": "Approx 10-11 Levels"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices",
+       "value": "~₹10,500/sqft (~₹1.15 Cr+)"
+      },
+      {
+       "label": "Showrooms",
+       "value": "Premium frontage inventory"
+      },
+      {
+       "label": "Ideal for",
+       "value": "IT firms, Corporates, Banking, Premium brands"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Located in Indore's emerging Central Business District"
+      },
+      {
+       "label": "",
+       "value": "Collaborative open spaces and premium campus design"
+      },
+      {
+       "label": "",
+       "value": "High-street retail and lounges"
+      },
+      {
+       "label": "",
+       "value": "Strong access to Metro and Airport"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 5
+  },
+  {
+   "id": "468a894b409b",
+   "category": "new-commercial-building",
+   "slug": "aditya-nexus-tech-park",
+   "name": "Aditya Nexus Tech Park",
+   "headline": "500 - 5680 sq. ft.+",
+   "floors": "25 Floors",
+   "area": "500 - 5680 sq. ft.+",
+   "parking": "5 Levels of Parking (500+ cars)",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "14 Elevators Total",
+   "maintenance": "Smart building management, 24x7 CCTV",
+   "description": "Aditya Prakash Nexus Tech Park is Indore’s first private 25-storey IT park, strategically located at Luv Kush Square on Super Corridor. Developed by Prakash Bhatewara Group and Bhupesh Vyas Group, the project is designed as a next-generation corporate ecosystem featuring enterprise-grade office spaces, 5 levels of parking for 500+ vehicles, 14 high-speed elevators, and premium lifestyle amenities. With advanced infrastructure, smart building systems, and excellent connectivity to Indore’s growing IT corridor, Nexus Tech Park offers a future-ready business address for enterprises and investors.",
+   "images": [
+    "/assets/ready-buildings/nexus-tech-park.png"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Prakash Bhatewara Group + Bhupesh Vyas Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Private IT Park / Premium Commercial Tech Park"
+      },
+      {
+       "label": "Location",
+       "value": "Luv Kush Square, Opp. Double Layer Bridge, Bhawrasla / Super Corridor, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / New Launch"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 6
+  },
+  {
+   "id": "af14be85eea3",
+   "category": "new-commercial-building",
+   "slug": "c21-paradise",
+   "name": "C21 Paradise",
+   "headline": "366 - 1094 sq. ft.",
+   "floors": "14 Floors Total",
+   "area": "366 - 1094 sq. ft.",
+   "parking": "Ample car parking available",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "8 High-Speed Elevators",
+   "maintenance": "24x7 security, CCTV surveillance",
+   "description": "C21 Paradise is a premium 14-floor commercial tower strategically located on MR-10 Road near ISBT, Indore. Developed by C21 Group, the project offers modern office spaces, retail showrooms, and rooftop F&B opportunities designed for growing businesses and investors. With high-speed elevators, modern infrastructure, excellent connectivity, and compact investment-friendly office sizes, C21 Paradise offers a strong commercial opportunity in one of Indore’s fast-growing business corridors.",
+   "images": [
+    "/assets/ready-buildings/C21-Paradise_BROCHURE.pdf-scaled.png"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "C21 Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Tower (Office + Retail + F&B)"
+      },
+      {
+       "label": "Location",
+       "value": "MR-10 Road / Super Corridor, Near ISBT, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 7
+  },
+  {
+   "id": "eddf54d9ac8c",
+   "category": "new-commercial-building",
+   "slug": "shekhar-metro",
+   "name": "Shekhar Metro",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Commercial office spaces, Retail shops",
+   "description": "Shekhar Metro is an upcoming commercial development located in Sukhliya, Indore, offering office spaces, retail shops, and showroom inventory in a strategically connected business location. Positioned in a high-footfall urban corridor with strong connectivity to Vijay Nagar, MR-10, and AB Road, the project is designed to cater to businesses seeking visibility, accessibility, and long-term commercial growth.",
+   "images": [
+    "/assets/ready-buildings/sekhar-gloabal.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Shekhar Construction / Shekhar Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Commercial Project (Office + Shops + Showrooms + F&B)"
+      },
+      {
+       "label": "Location",
+       "value": "Sukhliya, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "New Launch / Under Construction"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project Size",
+       "value": "Confirm with Developer"
+      },
+      {
+       "label": "Floors",
+       "value": "Confirm with Developer"
+      },
+      {
+       "label": "Unit Types",
+       "value": "Office Spaces, Commercial Shops, Showrooms"
+      },
+      {
+       "label": "Office Sizes",
+       "value": "Available on Request"
+      },
+      {
+       "label": "Shop/Showroom Sizes",
+       "value": "Available on Request"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Pricing",
+       "value": "Price on Request"
+      },
+      {
+       "label": "Ideal For (Retail)",
+       "value": "Shops, Brand outlets, Daily retail, Service businesses"
+      },
+      {
+       "label": "Ideal For (Offices)",
+       "value": "Consultants, Agencies, SMEs, Clinics, CA / legal offices"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Located in established Sukhliya market"
+      },
+      {
+       "label": "",
+       "value": "Strong residential catchment nearby"
+      },
+      {
+       "label": "",
+       "value": "Good retail visibility"
+      },
+      {
+       "label": "",
+       "value": "Suitable for both investors & end users"
+      },
+      {
+       "label": "",
+       "value": "Benefits from future metro-led appreciation"
+      },
+      {
+       "label": "",
+       "value": "Strong connectivity to Vijay Nagar, Radisson Square, MR-10, AB Road"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 8
+  },
+  {
+   "id": "7b1a30bf6419",
+   "category": "new-commercial-building",
+   "slug": "shree-nakoda-industrial-park",
+   "name": "Shree Nakoda Industrial Park",
+   "headline": "Plot Sizes Available on Request",
+   "floors": "Industrial Plots / Warehousing",
+   "area": "Plot Sizes Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "N/A",
+   "maintenance": "Gated community, Paved internal roads",
+   "description": "Shree Nakoda Industrial Park is an upcoming industrial development located at Tigaria Badshah in Indore’s expanding industrial corridor. Designed for industrial plots, warehousing, factory setup, and logistics operations, the project offers strategic connectivity to major transportation routes including Super Corridor, Ujjain Road, and surrounding industrial belts. It is well suited for businesses seeking scalable industrial infrastructure in a high-growth location.",
+   "images": [
+    "/assets/ready-buildings/best-buisness-park-02.jpg.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Shree Nakoda Developers / Shree Nakoda Group (developer legal entity not clearly published online — confirm exact company name)"
+      },
+      {
+       "label": "Project Type",
+       "value": "Industrial Park / Industrial Plots + Warehousing + Factory Development"
+      },
+      {
+       "label": "Location",
+       "value": "Tigaria Badshah, Super Corridor / Ujjain Road Belt, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "New Launch"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 9
+  },
+  {
+   "id": "ff87bc9801b5",
+   "category": "new-commercial-building",
+   "slug": "omaxe-city-center",
+   "name": "Omaxe City Center",
+   "headline": "Confirm with Developer",
+   "floors": "Confirm with Developer",
+   "area": "Confirm with Developer",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Large mixed-use commercial development",
+   "description": "Omaxe City Center is a large mixed-use commercial development located in Mayakhedi, Indore, developed by Omaxe Ltd. Spread across approximately 11.89 acres, the project is designed as a modern commercial destination featuring retail spaces, showrooms, office inventory, and entertainment-oriented commercial opportunities. Strategically positioned in a rapidly growing corridor, Omaxe City Center offers strong long-term potential for businesses and investors seeking scale and visibility in Indore.",
+   "images": [
+    "/assets/ready-buildings/omax-city-center.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Omaxe Ltd."
+      },
+      {
+       "label": "Project Type",
+       "value": "Mixed-Use Commercial Development (Retail + Offices + Entertainment)"
+      },
+      {
+       "label": "Location",
+       "value": "Mayakhedi, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / New Launch"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 10
+  },
+  {
+   "id": "93b82ee662c4",
+   "category": "new-commercial-building",
+   "slug": "sneh-cybercity",
+   "name": "Sneh Cybercity",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Commercial office development",
+   "description": "Sneh Cybercity by Micromitti is a commercial development located in Juni Indore, offering office and commercial spaces in a strategically connected business zone. Positioned near major commercial hubs of central Indore, the project is suitable for businesses seeking accessibility, visibility, and long-term commercial potential in an established market corridor.",
+   "images": [
+    "/assets/ready-buildings/commercial-project-indore.webp"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Micromitti Real Estate Ventures Pvt. Ltd. / Micromitti Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Commercial IT / Office Development"
+      },
+      {
+       "label": "Location",
+       "value": "Juni Indore, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / New Launch"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 11
+  },
+  {
+   "id": "bb65236bc408",
+   "category": "new-commercial-building",
+   "slug": "sahil-metropolitan",
+   "name": "Sahil Metropolitan at RR Business Park",
+   "headline": "Offices 700–1800 sq ft | Showrooms 2100–2200 sq ft",
+   "floors": "9 Operational Office/Showroom Floors",
+   "area": "Offices 700–1800 sq ft | Showrooms 2100–2200 sq ft",
+   "parking": "Basement + Podium Parking",
+   "powerBackup": "24×7 power backup for common areas",
+   "liftAccess": "High-Speed Elevators with ARD",
+   "maintenance": "CCTV, Fire system, Rainwater harvesting, EV charging",
+   "description": "Sahil Metropolitan at RR Business Park is a premium commercial development strategically located in Indore's Super Corridor IT Hub. Developed by Sahil Group, the project offers well-planned office spaces and commercial showrooms with modern infrastructure, basement and podium parking, high-speed elevators, and strong connectivity to major IT campuses such as Infosys and TCS. Designed for growing businesses and investors, Sahil Metropolitan provides a future-ready commercial address in one of Indore's fastest-growing business corridors.",
+   "images": [
+    "/assets/ready-buildings/sahil-metropolitan.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Sahil Group / Sahil Realcon"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Project (Office + Showroom)"
+      },
+      {
+       "label": "Location",
+       "value": "Super Corridor, Chota Bangarda, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Ready to Move / Inventory Available"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Structure",
+       "value": "Basement + Podium + Ground + Floors 2–10"
+      },
+      {
+       "label": "Office Sizes",
+       "value": "700 – 1800 sq ft"
+      },
+      {
+       "label": "Showroom Sizes",
+       "value": "2100 – 2200 sq ft"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices",
+       "value": "~₹7,100/sqft (700 sq ft → ₹49.7L)"
+      },
+      {
+       "label": "Showrooms",
+       "value": "~₹16,500/sqft (2100 sq ft → ₹3.46 Cr)"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Super Corridor IT Hub location"
+      },
+      {
+       "label": "",
+       "value": "Near Infosys / TCS ecosystem"
+      },
+      {
+       "label": "",
+       "value": "Premium showroom frontage with double-height units"
+      },
+      {
+       "label": "",
+       "value": "EV charging points & Wi-Fi in common areas"
+      },
+      {
+       "label": "",
+       "value": "Strong future rental demand from IT corridor"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 12
+  },
+  {
+   "id": "bb246b84b65e",
+   "category": "new-commercial-building",
+   "slug": "iris-horizon-business-house",
+   "name": "J & S Iris Horizon Business House",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Commercial office development, Super Corridor connectivity",
+   "description": "J & S Iris Horizon Business House is an upcoming commercial development located in Bada Bangarda on Indore's rapidly growing Super Corridor. Offering office spaces and showroom inventory, the project is strategically positioned near the city's emerging IT and commercial corridor, making it suitable for businesses, investors, and brands seeking long-term commercial growth in a high-potential location.",
+   "images": [
+    "/assets/ready-buildings/iris-horizon-business-house.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "J & S Group / Iris Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Commercial Project (Office + Showrooms)"
+      },
+      {
+       "label": "Location",
+       "value": "Bada Bangarda, Super Corridor, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: Mar 2028)"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Super Corridor location"
+      },
+      {
+       "label": "",
+       "value": "Strong future commercial growth potential"
+      },
+      {
+       "label": "",
+       "value": "IT-corridor driven demand near Infosys & TCS"
+      },
+      {
+       "label": "",
+       "value": "Suitable for investors & end users"
+      },
+      {
+       "label": "",
+       "value": "Good corporate leasing potential"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 13
+  },
+  {
+   "id": "ef7212de430d",
+   "category": "new-commercial-building",
+   "slug": "urban-shivashish",
+   "name": "Urban Shivashish",
+   "headline": "Offices 440–915 sq ft | Showrooms Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Offices 440–915 sq ft | Showrooms Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "RERA Approved, Modern façade, Business-centric location",
+   "description": "Urban Shivashish is a premium commercial development located in Bhamori, behind Sayaji Hotel, in Indore's high-demand Vijay Nagar business corridor. Developed by Shivashish Infratech, the project offers modern office spaces and commercial showroom inventory with strategic connectivity to AB Road, Ring Road, and major commercial hubs. With compact office sizes, premium business positioning, and strong surrounding commercial activity, Urban Shivashish is ideal for businesses and investors seeking a prestigious address in central Indore.",
+   "images": [
+    "/assets/ready-buildings/urban-shivashish.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Shivashish Infratech Pvt. Ltd."
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Project (Office + Showrooms)"
+      },
+      {
+       "label": "Location",
+       "value": "Bhamori, Behind Sayaji Hotel, Vijay Nagar, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / New Launch"
+      },
+      {
+       "label": "RERA",
+       "value": "RERA Approved"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Office Sizes",
+       "value": "440 – 915 sq ft"
+      },
+      {
+       "label": "Showroom Sizes",
+       "value": "Available on Request"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices",
+       "value": "~₹10,500–₹17,000/sqft (from ~₹58.8L)"
+      },
+      {
+       "label": "Pricing",
+       "value": "Price on Request"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Vijay Nagar / Scheme 54 micro-market"
+      },
+      {
+       "label": "",
+       "value": "Near Sayaji Hotel landmark"
+      },
+      {
+       "label": "",
+       "value": "Compact office ticket sizes from ₹58.8L"
+      },
+      {
+       "label": "",
+       "value": "Strong resale and rental potential"
+      },
+      {
+       "label": "",
+       "value": "Excellent business visibility behind Sayaji"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 14
+  },
+  {
+   "id": "03f0f472fa0c",
+   "category": "new-commercial-building",
+   "slug": "vertical-cliffton-morya",
+   "name": "Vertical Cliffton Morya Business Park",
+   "headline": "Offices 500–1500+ sq ft | Showrooms 1500–2200+ sq ft",
+   "floors": "Confirm with Developer",
+   "area": "Offices 500–1500+ sq ft | Showrooms 1500–2200+ sq ft",
+   "parking": "Dedicated parking available",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "High-visibility frontage, Premium commercial elevation",
+   "description": "Vertical Cliffton Morya Business Park is a premium commercial development located at MR-5 Square on Indore's rapidly growing Super Corridor. Developed by Cliffton Group, the project offers office spaces, showrooms, and commercial shops in a high-growth business corridor near major IT campuses. With limited premium inventory, strong connectivity, and excellent commercial visibility, Cliffton Morya is positioned as an attractive destination for businesses and investors seeking long-term commercial growth in Indore.",
+   "images": [
+    "/assets/ready-buildings/cliffton-morya.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Cliffton Group / Vertical Homes LLP"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Development (Office + Showroom + Shops)"
+      },
+      {
+       "label": "Location",
+       "value": "MR-5 Square / Super Corridor, Bada Bangarda, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: Dec 2027)"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project Area",
+       "value": "0.44 Acres (74 Units)"
+      },
+      {
+       "label": "Office Sizes",
+       "value": "500 – 1500+ sq ft"
+      },
+      {
+       "label": "Showroom Sizes",
+       "value": "1500 – 2200+ sq ft"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime MR-5 / Super Corridor location"
+      },
+      {
+       "label": "",
+       "value": "Near Indore's IT hub (Infosys, TCS)"
+      },
+      {
+       "label": "",
+       "value": "Premium commercial positioning"
+      },
+      {
+       "label": "",
+       "value": "Limited inventory – only 74 units"
+      },
+      {
+       "label": "",
+       "value": "Good future appreciation potential"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 15
+  },
+  {
+   "id": "c58e34efda29",
+   "category": "new-commercial-building",
+   "slug": "khushiram-gyanz-orange-business-hub",
+   "name": "Khushiram Gyanz Orange Business Hub",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Commercial project, Rau growth corridor",
+   "description": "Khushiram Gyanz Orange Business Hub is a commercial development located in Rau, Indore, offering business opportunities in one of the city's fast-growing western corridors. Strategically connected to AB Road, Pithampur, and key residential catchments, the project is suitable for retail businesses, offices, and commercial investors seeking long-term growth potential.",
+   "images": [
+    "/assets/ready-buildings/khushiram-gyanz.png"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Khushiram Gyanz Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Commercial Development (Office + Retail / Showroom)"
+      },
+      {
+       "label": "Location",
+       "value": "Rau, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Development / Inventory Available"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Located in Rau – fast-growing western corridor of Indore"
+      },
+      {
+       "label": "",
+       "value": "Connectivity to AB Road, Pithampur, Mhow, Rajendra Nagar"
+      },
+      {
+       "label": "",
+       "value": "Access to industrial workforce & retail catchment"
+      },
+      {
+       "label": "",
+       "value": "Suitable for both investors & end users"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 16
+  },
+  {
+   "id": "e4b75ca4ca3a",
+   "category": "new-commercial-building",
+   "slug": "shreegyanrupa-altus",
+   "name": "Shreegyanrupa Altus Business Park",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Premium business park, Super Corridor frontage",
+   "description": "Shreegyanrupa Altus Business Park is an upcoming premium commercial development located on Indore's rapidly growing Super Corridor in Bada Bangarda. Developed by Shreegyanrupa Construction Pvt. Ltd., the project offers commercial office spaces and showroom inventory in a strategic business corridor near major IT and infrastructure hubs. With strong connectivity and high growth potential, Altus Business Park is well positioned for businesses and investors seeking long-term commercial value in Indore.",
+   "images": [
+    "/assets/ready-buildings/shreegyanrupa-altus.png"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Shreegyanrupa Construction Pvt. Ltd."
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Development (Office + Showrooms)"
+      },
+      {
+       "label": "Location",
+       "value": "Sector B, Plot No. 3 & 4, Super Corridor, Bada Bangarda, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction (Possession: Jan 2027)"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Super Corridor location in Bada Bangarda"
+      },
+      {
+       "label": "",
+       "value": "Near Infosys, TCS & MR-5 Square"
+      },
+      {
+       "label": "",
+       "value": "Good corporate leasing potential"
+      },
+      {
+       "label": "",
+       "value": "Strong future appreciation potential"
+      },
+      {
+       "label": "",
+       "value": "Suitable for investors & end users"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 17
+  },
+  {
+   "id": "96e5a6955e2d",
+   "category": "new-commercial-building",
+   "slug": "vibrant-vini-commercial",
+   "name": "Vibrant Vini Commercial",
+   "headline": "Shops 210–3057 sq ft | Offices 1000 sq ft onwards",
+   "floors": "5 Floors",
+   "area": "Shops 210–3057 sq ft | Offices 1000 sq ft onwards",
+   "parking": "2W & 4W Parking",
+   "powerBackup": "Power Backup Available",
+   "liftAccess": "High-Speed Elevators Available",
+   "maintenance": "24×7 security, Fire safety, Lounge areas, Pantry",
+   "description": "Vibrant Vini Commercial is a premium commercial development by Vibrant Group located on Bicholi Hapsi Road, Indore. Designed as a modern business hub, the project offers shops, showrooms, and office spaces across a 5-floor commercial tower with premium amenities such as power backup, elevators, security, and ample parking. With excellent connectivity to major residential and commercial zones, Vibrant Vini Commercial is an ideal destination for businesses and investors seeking visibility and long-term growth in Indore.",
+   "images": [
+    "/assets/ready-buildings/vibrant-vini.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Vibrant Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Development (Office + Shops + Showrooms)"
+      },
+      {
+       "label": "Location",
+       "value": "Bicholi Hapsi Road, Opp. ACP Office, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-24-5141"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project",
+       "value": "1 Tower, 5 Floors, 115 Units"
+      },
+      {
+       "label": "GF",
+       "value": "Retail / Showrooms"
+      },
+      {
+       "label": "Upper Floors",
+       "value": "Commercial Offices"
+      },
+      {
+       "label": "Shop/Showroom Range",
+       "value": "210 – 3057 sq ft"
+      },
+      {
+       "label": "Office Range",
+       "value": "1000 sq ft onwards"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Shops/Showrooms",
+       "value": "~₹15,000/sqft (from ₹31.5L to ₹4.58 Cr)"
+      },
+      {
+       "label": "210 sq ft",
+       "value": "₹31.5 L"
+      },
+      {
+       "label": "888 sq ft",
+       "value": "₹1.33 Cr"
+      },
+      {
+       "label": "3057 sq ft",
+       "value": "₹4.58 Cr"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Bicholi Hapsi location near Bengali Square"
+      },
+      {
+       "label": "",
+       "value": "Strong premium residential catchment"
+      },
+      {
+       "label": "",
+       "value": "Compact to large unit options"
+      },
+      {
+       "label": "",
+       "value": "Good retail visibility & premium showroom frontage"
+      },
+      {
+       "label": "",
+       "value": "Strong appreciation potential"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 18
+  },
+  {
+   "id": "1209b8691cf2",
+   "category": "new-commercial-building",
+   "slug": "pulse-it-park",
+   "name": "Pulse IT Park",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Dedicated parking available",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "IT-focused infrastructure, Corporate-grade connectivity",
+   "description": "Pulse IT Park is a premium office development located on Indore's high-growth Super Corridor, designed to cater to IT companies, enterprises, and modern businesses. With strategic connectivity to major technology hubs and future infrastructure growth, Pulse IT Park offers an ideal business destination for corporate occupiers and investors seeking long-term value.",
+   "images": [
+    "/assets/ready-buildings/WhatsApp-Image-2025-07-22-at-13.50.41_af372e78.jpg.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Pulse Group / Pulse Infratech"
+      },
+      {
+       "label": "Project Type",
+       "value": "IT Park / Premium Office Development"
+      },
+      {
+       "label": "Location",
+       "value": "Super Corridor, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / Active Inventory"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Located in Indore's IT corridor near Infosys & TCS"
+      },
+      {
+       "label": "",
+       "value": "Strong leasing potential for enterprises"
+      },
+      {
+       "label": "",
+       "value": "Corporate-grade premium positioning"
+      },
+      {
+       "label": "",
+       "value": "Long-term appreciation potential"
+      },
+      {
+       "label": "",
+       "value": "Metro & Airport connectivity"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 19
+  },
+  {
+   "id": "6bbb63e75db1",
+   "category": "new-commercial-building",
+   "slug": "sarthak-singapore-one-street",
+   "name": "Sarthak Singapore Business Park",
+   "headline": "Total built-up area of approx 3,00,000 sq. ft.",
+   "floors": "2 Basements + Ground + 6 Upper Floors (8 floors total)",
+   "area": "Total built-up area of approx 3,00,000 sq. ft.",
+   "parking": "Two-level basement parking with ample space for 2-wheelers and 4-wheelers, including visitor parking",
+   "powerBackup": "24×7 power backup for lifts and all common areas",
+   "liftAccess": "Four high-speed passenger lifts with separate service floor provisions",
+   "maintenance": "CCTV surveillance, NBC-compliant fire safety, dedicated facility management",
+   "description": "Sarthak Singapore Business Park is a premium commercial development located on Indore's rapidly growing Super Corridor. Designed for modern retail and commercial businesses, the project offers premium frontage, strong visibility, and excellent connectivity to major IT and infrastructure hubs, making it an attractive destination for investors and brands.",
+   "images": [
+    "/assets/ready-buildings/sarthak-singapore.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Sarthak Housing"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium High-Street Commercial Development"
+      },
+      {
+       "label": "Location",
+       "value": "Super Corridor, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / Inventory Available"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime Super Corridor location"
+      },
+      {
+       "label": "",
+       "value": "High-street retail model with wide frontage"
+      },
+      {
+       "label": "",
+       "value": "Strong future footfall from IT + residential belt"
+      },
+      {
+       "label": "",
+       "value": "Good long-term appreciation potential"
+      },
+      {
+       "label": "",
+       "value": "Near Infosys, TCS, Airport & MR-10"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 20
+  },
+  {
+   "id": "70ce0dab4133",
+   "category": "new-commercial-building",
+   "slug": "sarthak-square",
+   "name": "Sarthak Square",
+   "headline": "Offices: Available on Request | Showrooms: Available on Request",
+   "floors": "6 Floors (GF+1F: Showrooms, 2F–6F: Offices)",
+   "area": "Offices: Available on Request | Showrooms: Available on Request",
+   "parking": "2W & 4W Parking",
+   "powerBackup": "Power Backup Available",
+   "liftAccess": "High-Speed Elevators Available",
+   "maintenance": "Concierge, Reception, CCTV, Fire safety, Vitrified flooring",
+   "description": "Sarthak Square is a premium commercial arcade strategically located on MR-5 Road near Indore's Super Corridor. Developed by Sarthak Housing, the project offers exclusive showrooms on the Ground and First Floor along with premium office spaces from the 2nd to 6th Floor. Spread across 1.46 acres with 215 units, Sarthak Square features power backup, elevators, parking, concierge services, and modern infrastructure, making it an ideal destination for businesses and investors seeking long-term commercial growth in Indore.",
+   "images": [
+    "/assets/ready-buildings/sarthak-square.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "Sarthak Housing / Sarthak Estate Developers"
+      },
+      {
+       "label": "Project Type",
+       "value": "Premium Commercial Arcade (Office + Shops + Showrooms)"
+      },
+      {
+       "label": "Location",
+       "value": "MR-5 Road, Chota Bangarda, Super Corridor, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "New Launch / Under Construction"
+      },
+      {
+       "label": "Ownership",
+       "value": "Freehold"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Project Area",
+       "value": "1.46 Acres (215 Units, 1 Tower)"
+      },
+      {
+       "label": "GF & 1F",
+       "value": "Premium Showrooms"
+      },
+      {
+       "label": "2F to 6F",
+       "value": "Office Spaces"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Pricing",
+       "value": "Price on Request"
+      },
+      {
+       "label": "Ideal For",
+       "value": "IT firms, Startups, Premium brands, Cafes, Banking"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Prime MR-5 / Super Corridor location"
+      },
+      {
+       "label": "",
+       "value": "Strong IT-corridor driven demand"
+      },
+      {
+       "label": "",
+       "value": "Metro accessibility (~3 km to metro)"
+      },
+      {
+       "label": "",
+       "value": "Retail + office ecosystem in 1 building"
+      },
+      {
+       "label": "",
+       "value": "High long-term appreciation potential"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 21
+  },
+  {
+   "id": "b9a8a77ef89d",
+   "category": "new-commercial-building",
+   "slug": "bcm-zodiac",
+   "name": "BCM Zodiac",
+   "headline": "Offices 850–2000 sq ft | Shops 500–1500 sq ft",
+   "floors": "Multi-floor (Basement to Upper Corporate Floors)",
+   "area": "Offices 850–2000 sq ft | Shops 500–1500 sq ft",
+   "parking": "3.5 Lakh sq ft Dedicated Parking",
+   "powerBackup": "24×7 Power Backup Available",
+   "liftAccess": "High-Speed Passenger & Service Elevators",
+   "maintenance": "6-Screen Multiplex, Hypermarket, Food Court, Gymnasium",
+   "description": "BCM Zodiac is a landmark hybrid commercial development by BCM Group located in Nipania, Indore. Spread across approximately 10 lakh sq ft, the project integrates premium retail spaces, showrooms, food courts, entertainment zones, and high-end corporate office spaces within a single ecosystem. Featuring 50,000 sq ft office floor plates, 3.5 lakh sq ft of parking, a 6-screen multiplex, hypermarket, and premium lifestyle amenities, BCM Zodiac is positioned as one of Indore's most ambitious commercial destinations for businesses and investors.",
+   "images": [
+    "/assets/ready-buildings/bcm-zodiac.jpg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "BCM Group"
+      },
+      {
+       "label": "Project Type",
+       "value": "Hybrid Commercial (Mall + Office + Retail + Entertainment)"
+      },
+      {
+       "label": "Location",
+       "value": "Nipania, BCM Marg, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction / New Launch"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-22-3651 / P-IND-24-4856"
+      }
+     ]
+    },
+    {
+     "title": "Structure & Area",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Total Development",
+       "value": "~10 Lakh sq ft"
+      },
+      {
+       "label": "Parking Area",
+       "value": "~3.5 Lakh sq ft"
+      },
+      {
+       "label": "Floor Plates",
+       "value": "50,000 sq ft per corporate floor"
+      },
+      {
+       "label": "Office Sizes",
+       "value": "850 – 2000 sq ft"
+      },
+      {
+       "label": "Shop/Showroom Sizes",
+       "value": "500 – 1500 sq ft"
+      }
+     ]
+    },
+    {
+     "title": "Inventory & Pricing",
+     "type": "price",
+     "rows": [
+      {
+       "label": "Offices",
+       "value": "~₹7,500/sqft (from ₹63.75L)"
+      },
+      {
+       "label": "Shops/Showrooms",
+       "value": "~₹8,600/sqft (from ₹43L)"
+      },
+      {
+       "label": "1000 sq ft Office",
+       "value": "₹75 L"
+      },
+      {
+       "label": "2000 sq ft Office",
+       "value": "₹1.5 Cr"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "One of Indore's largest commercial developments"
+      },
+      {
+       "label": "",
+       "value": "Indore's first large hybrid mall + office ecosystem"
+      },
+      {
+       "label": "",
+       "value": "Prime Nipania location near MR-10 & Phoenix Citadel"
+      },
+      {
+       "label": "",
+       "value": "Massive 50,000 sq ft corporate floor plates"
+      },
+      {
+       "label": "",
+       "value": "Strong retail footfall from premium catchment"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 22
+  },
+  {
+   "id": "4cb57896e02b",
+   "category": "new-commercial-building",
+   "slug": "nks-complex",
+   "name": "NKS Complex",
+   "headline": "Available on Request",
+   "floors": "Confirm with Developer",
+   "area": "Available on Request",
+   "parking": "Confirm with Developer",
+   "powerBackup": "Confirm with Developer",
+   "liftAccess": "Confirm with Developer",
+   "maintenance": "Retail-focused commercial complex, Urban connectivity",
+   "description": "NKS Complex is an upcoming commercial development in Indore's Bhagirath Pura–Sukhliya corridor, offering retail and commercial business opportunities in a well-connected urban market. Positioned in a high-demand residential and commercial zone, the project is suitable for shops, service businesses, and office users seeking accessibility, visibility, and long-term commercial growth.",
+   "images": [
+    "/assets/ready-buildings/nks-complex.jpeg"
+   ],
+   "sections": [
+    {
+     "title": "Project Details",
+     "type": "list",
+     "rows": [
+      {
+       "label": "Developer",
+       "value": "NKS Developers"
+      },
+      {
+       "label": "Project Type",
+       "value": "Commercial Development (Shops / Retail / Office)"
+      },
+      {
+       "label": "Location",
+       "value": "Bhagirath Pura / Sukhliya belt, Indore"
+      },
+      {
+       "label": "Status",
+       "value": "Under Construction"
+      },
+      {
+       "label": "RERA",
+       "value": "P-IND-23-4167"
+      }
+     ]
+    },
+    {
+     "title": "Investment Highlights",
+     "type": "checks",
+     "rows": [
+      {
+       "label": "",
+       "value": "Located in established urban commercial zone"
+      },
+      {
+       "label": "",
+       "value": "Strong daily footfall potential"
+      },
+      {
+       "label": "",
+       "value": "Suitable for small-to-mid ticket investors"
+      },
+      {
+       "label": "",
+       "value": "Good retail visibility"
+      },
+      {
+       "label": "",
+       "value": "Strong local catchment near Sukhliya & Vijay Nagar"
+      }
+     ]
+    }
+   ],
+   "published": true,
+   "order": 23
+  }
+ ],
+ "options": [
+  {
+   "id": "d3afd8ccdd1b",
+   "category": "retail-shops-showrooms",
+   "name": "High-Street Retail Shop",
+   "subtitle": "Retail brands, service counters, clinics, and customer walk-ins",
+   "badge": "Active options",
+   "priceLabel": "Market pricing",
+   "image": "/assets/services/meeting-rooms.jpg",
+   "stats": [
+    {
+     "label": "Area",
+     "value": "250-700 sq. ft."
+    },
+    {
+     "label": "Best use",
+     "value": "Walk-in retail"
+    }
+   ],
+   "features": [
+    "Visible frontage",
+    "Customer access",
+    "Compact setup"
+   ],
+   "published": true,
+   "order": 1
+  },
+  {
+   "id": "1327f83983f7",
+   "category": "retail-shops-showrooms",
+   "name": "Premium Showroom Space",
+   "subtitle": "Dealerships, interiors, electronics, furniture, and premium brands",
+   "badge": "By appointment",
+   "priceLabel": "Custom lease",
+   "image": "/assets/hero/modern-reception.jpg",
+   "stats": [
+    {
+     "label": "Area",
+     "value": "900-2,500 sq. ft."
+    },
+    {
+     "label": "Best use",
+     "value": "Showroom"
+    }
+   ],
+   "features": [
+    "Display-led layout",
+    "Brand signage scope",
+    "Visitor-friendly entry"
+   ],
+   "published": true,
+   "order": 2
+  },
+  {
+   "id": "50c714d4583a",
+   "category": "retail-shops-showrooms",
+   "name": "Front-Facing Commercial Unit",
+   "subtitle": "Training centers, clinics, service brands, and hybrid retail offices",
+   "badge": "Limited options",
+   "priceLabel": "On request",
+   "image": "/assets/gallery/open-cubicles.jpg",
+   "stats": [
+    {
+     "label": "Area",
+     "value": "500-1,400 sq. ft."
+    },
+    {
+     "label": "Best use",
+     "value": "Service business"
+    }
+   ],
+   "features": [
+    "Front access",
+    "Flexible planning",
+    "Reception potential"
+   ],
+   "published": true,
+   "order": 3
+  },
+  {
+   "id": "6d109d2c584d",
+   "category": "hostels",
+   "name": "Student Hostel Property",
+   "subtitle": "Operators near coaching, college, and education clusters",
+   "badge": "Active options",
+   "priceLabel": "On request",
+   "image": "/assets/gallery/office-lounge.jpg",
+   "stats": [
+    {
+     "label": "Capacity",
+     "value": "25-60 beds"
+    },
+    {
+     "label": "Layout",
+     "value": "Shared rooms"
+    }
+   ],
+   "features": [
+    "Dorm planning",
+    "Common area scope",
+    "Location-led demand"
+   ],
+   "published": true,
+   "order": 1
+  },
+  {
+   "id": "8c407cf36bda",
+   "category": "hostels",
+   "name": "Staff Accommodation Setup",
+   "subtitle": "Companies and operators managing staff stays",
+   "badge": "By requirement",
+   "priceLabel": "Custom lease",
+   "image": "/assets/gallery/private-suite.jpg",
+   "stats": [
+    {
+     "label": "Capacity",
+     "value": "15-40 beds"
+    },
+    {
+     "label": "Layout",
+     "value": "Room clusters"
+    }
+   ],
+   "features": [
+    "Managed access",
+    "Utility planning",
+    "Long-stay suitability"
+   ],
+   "published": true,
+   "order": 2
+  },
+  {
+   "id": "fdfb5cbe00db",
+   "category": "hostels",
+   "name": "Conversion-Friendly Building",
+   "subtitle": "Investors converting commercial layouts into managed stays",
+   "badge": "Site visits open",
+   "priceLabel": "On request",
+   "image": "/assets/hero/modern-reception.jpg",
+   "stats": [
+    {
+     "label": "Capacity",
+     "value": "40+ beds"
+    },
+    {
+     "label": "Layout",
+     "value": "Flexible floors"
+    }
+   ],
+   "features": [
+    "Partition potential",
+    "Shared facility zones",
+    "Operator planning"
+   ],
+   "published": true,
+   "order": 3
+  },
+  {
+   "id": "44c0aad0c373",
+   "category": "hotels",
+   "name": "Boutique Hotel Property",
+   "subtitle": "Operators planning premium compact stays",
+   "badge": "By appointment",
+   "priceLabel": "Custom lease",
+   "image": "/assets/gallery/private-suite.jpg",
+   "stats": [
+    {
+     "label": "Rooms",
+     "value": "8-18 rooms"
+    },
+    {
+     "label": "Use case",
+     "value": "Boutique stay"
+    }
+   ],
+   "features": [
+    "Guest-friendly layout",
+    "Reception potential",
+    "Premium positioning"
+   ],
+   "published": true,
+   "order": 1
+  },
+  {
+   "id": "c932ea4ecc15",
+   "category": "hotels",
+   "name": "Business Stay Building",
+   "subtitle": "Corporate lodging, serviced rooms, and business travelers",
+   "badge": "Active options",
+   "priceLabel": "On request",
+   "image": "/assets/hero/modern-reception.jpg",
+   "stats": [
+    {
+     "label": "Rooms",
+     "value": "15-35 rooms"
+    },
+    {
+     "label": "Use case",
+     "value": "Business stay"
+    }
+   ],
+   "features": [
+    "Professional frontage",
+    "Easy visitor access",
+    "Service planning"
+   ],
+   "published": true,
+   "order": 2
+  },
+  {
+   "id": "2a898ce20025",
+   "category": "hotels",
+   "name": "Conversion Hospitality Space",
+   "subtitle": "Investors converting commercial property into lodging",
+   "badge": "Site visits open",
+   "priceLabel": "Custom pricing",
+   "image": "/assets/gallery/office-lounge.jpg",
+   "stats": [
+    {
+     "label": "Rooms",
+     "value": "20+ rooms"
+    },
+    {
+     "label": "Use case",
+     "value": "Conversion"
+    }
+   ],
+   "features": [
+    "Flexible floor plates",
+    "Common area scope",
+    "Operational feasibility"
+   ],
+   "published": true,
+   "order": 3
+  }
+ ]
+}

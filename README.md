@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Office on Rent: website
 
-## Getting Started
+The public website (offices, commercial buildings, retail, hostels, hotels in Indore). It is a Next.js rebuild of the earlier site and adds two things:
 
-First, run the development server:
+- **Every enquiry becomes a CRM lead.** Forms post to `/api/leads`. The site saves the enquiry to disk, then sends it signed (HMAC-SHA256) to the CRM, and retries every minute until the CRM confirms (`src/lib/leads.js`, `src/instrumentation.js`).
+- **An admin at `/admin`** where the client adds, edits, orders, hides and deletes properties and photos themselves (`src/app/admin`, `src/components/admin`).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Run locally
+
 ```
+dev.bat            # http://localhost:4310, data in .\data
+```
+Create a local admin with `node scripts/admin.mjs add <username> "<Name>"` (set `DATA_DIR=./data` first). To send enquiries to a CRM, set `CRM_LEADS_URL` and `CRM_LEADS_SECRET` in `.env.local`. Without them, enquiries wait in `data/leads/pending`.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Where things are
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+| | |
+|---|---|
+| Pages | `src/app/(site)/...` (detail pages: `ready-to-move/[slug]`, `new-commercial-building/[slug]`) |
+| Property data | `DATA_DIR/content.json`, first copied from `src/data/seed.json`; read and written via `src/lib/content.js` |
+| Photos | Original ones in `public/assets/`; uploads in `DATA_DIR/uploads`, served at `/media/...` |
+| Enquiries | `DATA_DIR/leads/pending` and `DATA_DIR/leads/sent` |
+| Admin users | `DATA_DIR/admins.json` (scrypt hashes), managed with `scripts/admin.mjs` |
+| Change log | `DATA_DIR/audit.log`, and the previous versions in `DATA_DIR/history/` |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deploying: `docs/DEPLOY.md`. Open decisions: `docs/DECISIONS.md`.
