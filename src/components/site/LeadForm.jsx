@@ -26,6 +26,7 @@ export default function LeadForm({ variant, property = "" }) {
     const form = event.currentTarget;
     const payload = Object.fromEntries(new FormData(form).entries());
     payload.page = pathname || "/";
+    payload.whatsappConsent = payload.whatsappConsent === "yes";
     if (property) payload.property = property;
     try {
       const response = await fetch("/api/leads", {
@@ -151,6 +152,10 @@ export default function LeadForm({ variant, property = "" }) {
           />
         </label>
       )}
+      <label className={`flex items-start gap-2 font-bold text-slate-600 ${hero ? "mt-3 text-[11px]" : "mt-3 text-xs sm:mt-4"}`}>
+        <input name="whatsappConsent" type="checkbox" value="yes" className="mt-0.5 h-4 w-4 shrink-0 accent-[#25D366]" />
+        <span>Send me updates about this enquiry on WhatsApp (you can reply STOP at any time).</span>
+      </label>
       <button
         type="submit"
         disabled={status === "loading"}

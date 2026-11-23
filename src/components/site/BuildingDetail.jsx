@@ -59,7 +59,7 @@ export default function BuildingDetail({ building }) {
           { label: building.name, href: "#" },
         ]}
       />
-      <section className="px-4 pt-6 pb-0 sm:px-6 lg:px-8">
+      <section className="px-4 pt-6 pb-0 sm:px-6 lg:px-8" data-wa-property={building.name}>
         <div className="mx-auto max-w-7xl">
           <div className="grid gap-8 lg:grid-cols-[60fr_40fr] lg:gap-12 lg:items-start">
             {single ? (

@@ -52,6 +52,8 @@ export function cleanEnquiry(body) {
     message: String(body?.requirements ?? body?.message ?? "").replace(/\r\n/g, "\n").trim().slice(0, 1000),
     page: text(body?.page, 200).startsWith("/") ? text(body?.page, 200) : "",
     property: text(body?.property, 160),
+    // Only an explicit tick counts (the box starts unticked).
+    whatsappConsent: body?.whatsappConsent === true,
   };
 }
 
